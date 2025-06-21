@@ -1,6 +1,6 @@
 # Apple
 DOMAIN-SUFFIX,api-adservices.apple.com
-# DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN-SUFFIX,smoot.apple.com
 
 # Documents
 DOMAIN-SUFFIX,northghost.com
@@ -9,7 +9,6 @@ DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,docstransfer.com
 
 # Terminus
-# DOMAIN-SUFFIX,termius.com
 DOMAIN-SUFFIX,split.io
 DOMAIN-SUFFIX,mixpanel.com
 DOMAIN-SUFFIX,sentry.io
@@ -29,7 +28,6 @@ DOMAIN-SUFFIX,telemetrydeck.com
 DOMAIN-SUFFIX,branch.io
 DOMAIN-SUFFIX,braze.com
 DOMAIN-SUFFIX,tracking.shopback.com
-# DOMAIN-SUFFIX,graph.facebook.com
 DOMAIN-SUFFIX,firebasedynamiclinks.googleapis.com
 DOMAIN-SUFFIX,fundingchoicesmessages.google.com
 DOMAIN-SUFFIX,adtrafficquality.google
