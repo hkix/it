@@ -1,0 +1,20 @@
+# -> AU Bank
+# ANZ
+DOMAIN-SUFFIX,anz.com
+DOMAIN-SUFFIX,telemetry.anz
+
+# Westpac
+DOMAIN-SUFFIX,westpac.com.au
+DOMAIN-SUFFIX,westpac.com
+DOMAIN-SUFFIX,lookwhoscharging.com
+
+# HSBC AU
+DOMAIN-SUFFIX,hsbc.com.au
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,hsbc.co.uk
+DOMAIN-SUFFIX,hsbc.com
+
+# Pearler
+
+
+# -> AU Gov
