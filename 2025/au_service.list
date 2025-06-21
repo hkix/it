@@ -16,5 +16,8 @@ DOMAIN-SUFFIX,hsbc.com
 
 # Pearler
 
+DOMAIN-SUFFIX,gov.au
+DOMAIN-SUFFIX,edu.au
+DOMAIN-SUFFIX,com.au
 
-# -> AU Gov
+DOMAIN-SUFFIX,jsdelivr.net
