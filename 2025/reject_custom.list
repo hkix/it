@@ -1,20 +1,3 @@
-DOMAIN-SUFFIX,cmpassport.com
-DOMAIN-SUFFIX,open.mmarket.com
-DOMAIN-SUFFIX,opencloud.wostore.cn
-DOMAIN-SUFFIX,nishub1.10010.com
-DOMAIN-SUFFIX,nisportal.10010.com
-DOMAIN-SUFFIX,hmrz.wo.cn
-DOMAIN-SUFFIX,mdn.open.wo.cn
-DOMAIN-SUFFIX,id.mail.wo.cn
-DOMAIN-SUFFIX,auth.wosms.cn
-DOMAIN-SUFFIX,open.e.189.cn
-DOMAIN-SUFFIX,id6.me
-DOMAIN-SUFFIX,onepass.geetest.com
-DOMAIN-SUFFIX,onelogin.geetest.com
-DOMAIN-SUFFIX,yuyan.popadshop.com
-DOMAIN-SUFFIX,verification.jpush.cn
-DOMAIN-SUFFIX,jiguang.cn
-
 # Apple
 DOMAIN-SUFFIX,api-adservices.apple.com
 DOMAIN-SUFFIX,smoot.apple.com
