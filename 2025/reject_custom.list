@@ -1,6 +1,6 @@
 # Apple
 DOMAIN-SUFFIX,api-adservices.apple.com
-#DOMAIN-SUFFIX,smoot.apple.com
+# DOMAIN-SUFFIX,smoot.apple.com
 
 # Documents
 DOMAIN-SUFFIX,northghost.com
